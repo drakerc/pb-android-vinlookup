@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyCarInfo - by Krzysztof Kosinski</string>
+    <string name="submit_vin_number">Submit VIN Number</string>
+    <string name="vin_not_valid">This VIN Number is invalid</string>
+    <string name="enter_vin_number">Enter VIN Number</string>
+    <string name="no_info_available">No information available</string>
+    <string name="production_location">Location of production plant</string>
+    <string name="production_map">Map of car\'s production plant</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="year">Production year</string>
+    <string name="capacity">Engine capacity [l]</string>
+    <string name="country">Country of production</string>
+    <string name="suv">SUV</string>
+    <string name="sedan">Sedan</string>
+    <string name="cabrio">Cabrio</string>
+    <string name="coupe">Coupe</string>
+    <string name="van">Van / minivan</string>
+    <string name="pickup">Pickup</string>
+    <string name="combi">Combi wagon</string>
+    <string name="othertype">Other type</string>
+    <string name="cartype">Car type</string>
+    <string name="goingBack">You\'ve been returned to the main menu</string>
+
+
+</resources>

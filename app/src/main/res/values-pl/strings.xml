@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCarInfo</string>
+    <string name="capacity">Pojemność silnika [l]</string>
+    <string name="country">Kraj wyprodukowania auta</string>
+    <string name="enter_vin_number">Wpisz numer VIN</string>
+    <string name="make">Producent</string>
+    <string name="model">Model</string>
+    <string name="production_location">Lokalizacja fabryki produkującej auto</string>
+    <string name="no_info_available">Informacja niedostępna</string>
+    <string name="submit_vin_number">Zatwierdź numer VIN</string>
+    <string name="vin_not_valid">Ten numer VIN jest nieprawidłowy albo nie ma informacji o aucie</string>
+    <string name="year">Rok produkcji</string>
+    <string name="cabrio">Kabriolet</string>
+    <string name="cartype">Typ pojazdu</string>
+    <string name="combi">Kombi</string>
+    <string name="coupe">Coupe</string>
+    <string name="othertype">Inny typ</string>
+    <string name="pickup">Pickup</string>
+    <string name="production_map">Mapa produkcji samochodu</string>
+    <string name="sedan">Sedan</string>
+    <string name="suv">SUV / terenowy</string>
+    <string name="van">Van / Mini-van</string>
+    <string name="goingBack">Zostałeś przeniesiony do menu głównego</string>
+</resources>
